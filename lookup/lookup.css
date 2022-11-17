@@ -1,0 +1,29 @@
+.enjoy-css {
+    display: block;
+    float: left;
+    padding:2px 5px;
+    border: 1px solid #b7b7b7;
+    font: normal 12px/normal segoe ui;
+}
+
+.lookupImg {
+    display: block;
+    width: 18px;
+    height: 18px;
+    float: left;
+    padding-top:2px;
+    border: 1px solid #b7b7b7;
+}
+
+.lookupAlignment {
+    text-align:left;
+    vertical-align:middle;
+}
+
+span {
+    font: normal 16px/normal segoe ui;
+}
+
+td {
+    font: normal 14px/normal segoe ui; width:200px;
+}
